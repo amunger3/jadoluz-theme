@@ -17,5 +17,17 @@
                 "path": "./themes/jadoluz.json"
             }
         ]
-    }
+    },
+    "publisher": "amung",
+    "repository": {
+        "type": "GitHub",
+        "url": "https://github.com/amunger3/jadoluz-theme"
+    },
+    "author": {
+        "name": "Alex Munger",
+        "email": "munger.alex@gmail.com",
+        "url": "https://amunger3.github.io"
+    },
+    "license": "MIT",
+    "icon": "img/jadoluz-logo.png"
 }
