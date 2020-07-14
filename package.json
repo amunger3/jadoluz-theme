@@ -29,5 +29,10 @@
         "url": "https://amunger3.github.io"
     },
     "license": "MIT",
-    "icon": "img/jadoluz-logo.png"
+    "icon": "img/jadoluz-logo.png",
+    "keywords": [
+        "jadoluz",
+        "light-theme",
+        "theme"
+    ]
 }
