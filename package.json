@@ -2,9 +2,9 @@
     "name": "jadoluz-theme",
     "displayName": "Jadoluz Theme",
     "description": "A light color scheme inspired by Armadillo.",
-    "version": "0.0.1",
+    "version": "0.0.5",
     "engines": {
-        "vscode": "^1.47.0"
+        "vscode": "^1.51.1"
     },
     "categories": [
         "Themes"
@@ -34,5 +34,8 @@
         "jadoluz",
         "light-theme",
         "theme"
-    ]
+    ],
+    "devDependencies": {
+        "vsce": "^1.81.1"
+    }
 }
