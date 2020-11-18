@@ -2,7 +2,7 @@
 node_modules
 
 # VSCode
-.vscode/settings.json
+*.vsix
 vsc-extension-quickstart.md
 
 # Unused Files
