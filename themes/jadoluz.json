@@ -5,12 +5,12 @@
     "colors": {
         "activityBar.background": "#F0F0F0",
         "activityBar.border": "#00000018",
-        "activityBar.foreground": "#000000",
+        "activityBar.foreground": "#0F0C0D",
         "activityBarBadge.background": "#BD1B0F",
         "dropdown.background": "#F8F8F8",
         "dropdown.border": "#00000018",
         "editor.background": "#FFFFFF",
-        "editor.foreground": "#000000",
+        "editor.foreground": "#0F0C0D",
         "editorBracketMatch.background": "#0064001A",
         "editorBracketMatch.border": "#9fA3A0",
         "editor.findMatchBackground": "#309C5AB9",
@@ -22,7 +22,7 @@
         "editorIndentGuide.background": "#00000010",
         "editorLightBulb.foreground": "#dd76007a",
         "editorLightBulbAutoFix.foreground": "#1B40B9B7",
-        "editorLineNumber.activeForeground": "#000000",
+        "editorLineNumber.activeForeground": "#0F0C0D",
         "editorLineNumber.foreground": "#999999",
         "editorUnnecessaryCode.opacity": "#00000080",
         "editorWarning.foreground": "#E9C60091",
@@ -30,23 +30,23 @@
         "editor.wordHighlightStrongBackground": "#08268840",
         "errorForeground": "#A10D19C5",
         "extensionBadge.remoteBackground": "#E00C0C",
-        "extensionBadge.remoteForeground": "#ffffff",
+        "extensionBadge.remoteForeground": "#FFFFFF",
         "extensionButton.prominentBackground": "#349B3A",
-        "extensionButton.prominentForeground": "#ffffff",
+        "extensionButton.prominentForeground": "#FFFFFF",
         "extensionButton.prominentHoverBackground": "#227025",
-        "focusBorder": "#079b45da",
-        "gitDecoration.addedResourceForeground": "#0c7c3bee",
-        "gitDecoration.conflictingResourceForeground": "#8b6cc4",
-        "gitDecoration.deletedResourceForeground": "#ad3b07",
-        "gitDecoration.ignoredResourceForeground": "#8f8f91",
-        "gitDecoration.modifiedResourceForeground": "#2d38d4",
-        "gitDecoration.submoduleResourceForeground": "#8923c4",
-        "gitDecoration.untrackedResourceForeground": "#3c6b3c",
+        "focusBorder": "#079B45DA",
+        "gitDecoration.addedResourceForeground": "#0C7C3BEE",
+        "gitDecoration.conflictingResourceForeground": "#8B6CC4",
+        "gitDecoration.deletedResourceForeground": "#AD3B07",
+        "gitDecoration.ignoredResourceForeground": "#8F8F91",
+        "gitDecoration.modifiedResourceForeground": "#2D38D4",
+        "gitDecoration.submoduleResourceForeground": "#8923C4",
+        "gitDecoration.untrackedResourceForeground": "#3C6B3C",
         "icon.foreground": "#474646",
         "input.background": "#F8F8F8",
         "input.border": "#00000018",
         "list.activeSelectionBackground": "#00000018",
-        "list.activeSelectionForeground": "#000000",
+        "list.activeSelectionForeground": "#0F0C0D",
         "list.hoverBackground": "#00000008",
         "list.inactiveSelectionBackground": "#00000010",
         "notificationLink.foreground": "#E00C0C",
@@ -57,22 +57,22 @@
         "statusBar.border": "#00000018",
         "statusBar.debuggingBackground": "#BD1B0F",
         "statusBar.debuggingForeground": "#FFFFFF",
-        "statusBar.foreground": "#000000",
+        "statusBar.foreground": "#0F0C0D",
         "statusBarItem.activeBackground": "#ffffff2e",
         "statusBarItem.hoverBackground": "#ffffff1f",
         "statusBarItem.prominentBackground": "#00000080",
-        "statusBarItem.prominentForeground": "#000000",
-        "statusBarItem.prominentHoverBackground": "#0000004d",
+        "statusBarItem.prominentForeground": "#0F0C0D",
+        "statusBarItem.prominentHoverBackground": "#0000004D",
         "tab.activeForeground": "#333333",
-        "tab.activeModifiedBorder": "#2d38d4",
-        "tab.inactiveForeground": "#333333b3",
-        "tab.inactiveModifiedBorder": "#2d38d4cb",
+        "tab.activeModifiedBorder": "#2D38D4",
+        "tab.inactiveForeground": "#333333B3",
+        "tab.inactiveModifiedBorder": "#2D38D4CB",
         "tab.unfocusedActiveBackground": "#F8F8F8",
-        "tab.unfocusedActiveBorder": "#ee00009c",
-        "tab.unfocusedActiveForeground": "#333333b3",
-        "tab.unfocusedActiveModifiedBorder": "#2d38d4cb",
+        "tab.unfocusedActiveBorder": "#EE00009C",
+        "tab.unfocusedActiveForeground": "#333333B3",
+        "tab.unfocusedActiveModifiedBorder": "#2D38D4CB",
         "tab.unfocusedInactiveForeground": "#33333359",
-        "tab.unfocusedInactiveModifiedBorder": "#2d38d485",
+        "tab.unfocusedInactiveModifiedBorder": "#2D38D485",
         "tab.activeBackground": "#F8F8F8",
         "tab.activeBorder": "#BD1B0F",
         "tab.border": "#00000018",
@@ -81,16 +81,16 @@
         "terminal.selectionBackground": "#00000060",
         "textLink.activeForeground": "#E00C0C",
         "textLink.foreground": "#BD1B0F",
-        "textBlockQuote.background": "#7f7f7f1a",
+        "textBlockQuote.background": "#7F7F7F1A",
         "textBlockQuote.border": "#0300cc80",
-        "textCodeBlock.background": "#dcdcdc66",
-        "textPreformat.foreground": "#bd3118ef",
-        "textSeparator.foreground": "#0000002e",
-        "titleBar.activeBackground": "#dddddd",
+        "textCodeBlock.background": "#DCDCDC66",
+        "textPreformat.foreground": "#BD3118EF",
+        "textSeparator.foreground": "#0000002E",
+        "titleBar.activeBackground": "#DDDDDD",
         "titleBar.activeForeground": "#333333",
-        "titleBar.inactiveBackground": "#dddddd99",
+        "titleBar.inactiveBackground": "#DDDDDD99",
         "titleBar.inactiveForeground": "#33333399",
-        "tree.indentGuidesStroke": "#9e9d9d",
+        "tree.indentGuidesStroke": "#9E9D9D",
         "panel.border": "#00000018",
         "statusBar.noFolderBackground": "#706E6E",
         "statusBar.noFolderBorder": "#00000010",
@@ -105,7 +105,7 @@
                 "source.groovy.embedded"
             ],
             "settings": {
-                "foreground": "#000000"
+                "foreground": "#0F0C0D"
             }
         },
         {
@@ -264,7 +264,7 @@
             "name": "brackets of XML/HTML tags",
             "scope": "punctuation.definition.tag",
             "settings": {
-                "foreground": "#000000"
+                "foreground": "#0F0C0D"
             }
         },
         {
@@ -356,7 +356,7 @@
                 "meta.template.expression"
             ],
             "settings": {
-                "foreground": "#000000"
+                "foreground": "#0F0C0D"
             }
         },
         {
@@ -387,7 +387,7 @@
         {
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#000000"
+                "foreground": "#0F0C0D"
             }
         },
         {
@@ -438,7 +438,7 @@
                 "storage.modifier.package.java"
             ],
             "settings": {
-                "foreground": "#000000"
+                "foreground": "#0F0C0D"
             }
         },
         {
@@ -634,13 +634,13 @@
         {
             "scope": "variable",
             "settings": {
-                "foreground": "#000000"
+                "foreground": "#0F0C0D"
             }
         },
         {
             "scope": "entity.name.variable",
             "settings": {
-                "foreground": "#000000"
+                "foreground": "#0F0C0D"
             }
         }
     ]
