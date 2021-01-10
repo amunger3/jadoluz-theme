@@ -44,5 +44,11 @@
     ],
     "devDependencies": {
         "vsce": "^1.83.0"
+    },
+    "scripts": {
+        "clean": "rm -force *.vsix",
+        "pack": "npx vsce package",
+        "all": "npx npm-run-all clean pack",
+        "publish": "npx vsce publish"
     }
 }
