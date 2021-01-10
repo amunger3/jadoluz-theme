@@ -37,11 +37,11 @@
         "focusBorder": "#079B45CA",
         "gitDecoration.addedResourceForeground": "#079b45",
         "gitDecoration.conflictingResourceForeground": "#8B6CC4",
-        "gitDecoration.deletedResourceForeground": "#ad3607ef",
+        "gitDecoration.deletedResourceForeground": "#a82037ef",
         "gitDecoration.ignoredResourceForeground": "#8f8f91fa",
         "gitDecoration.modifiedResourceForeground": "#4a2adb",
-        "gitDecoration.submoduleResourceForeground": "#b13f4f",
-        "gitDecoration.untrackedResourceForeground": "#968811",
+        "gitDecoration.submoduleResourceForeground": "#d64e2c",
+        "gitDecoration.untrackedResourceForeground": "#a3638d",
         "icon.foreground": "#474646",
         "input.background": "#F8F8F8",
         "input.border": "#00000020",
@@ -130,7 +130,7 @@
         {
             "scope": "comment",
             "settings": {
-                "foreground": "#999999"
+                "foreground": "#a09e9e"
             }
         },
         {
@@ -154,16 +154,17 @@
             }
         },
         {
-            "scope": "entity.name.tag",
-            "settings": {
-                "foreground": "#BD1B0F"
-            }
-        },
-        {
             "scope": "entity.name.tag.css",
             "settings": {
                 "fontStyle": "bold",
                 "foreground": "#055ed3"
+            }
+        },
+        {
+            "scope": "entity.name.tag.html",
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#BD1B0F"
             }
         },
         {
@@ -182,7 +183,8 @@
                 "entity.other.attribute-name.pseudo-element.css",
                 "source.css.less entity.other.attribute-name.id",
                 "entity.other.attribute-name.attribute.scss",
-                "entity.other.attribute-name.scss"
+                "entity.other.attribute-name.scss",
+                "entity.other.attribute-name"
             ],
             "settings": {
                 "fontStyle": "bold",
@@ -192,7 +194,7 @@
         {
             "scope": "invalid",
             "settings": {
-                "foreground": "#BD1B0F"
+                "foreground": "#e42646"
             }
         },
         {
@@ -267,7 +269,7 @@
             "name": "brackets of XML/HTML tags",
             "scope": "punctuation.definition.tag",
             "settings": {
-                "foreground": "#5a2335"
+                "foreground": "#302e2d"
             }
         },
         {
@@ -588,7 +590,7 @@
                 "constant.character.set.regexp"
             ],
             "settings": {
-                "foreground": "#055ed3"
+                "foreground": "#0582a8"
             }
         },
         {
@@ -645,13 +647,13 @@
         {
             "scope": "variable",
             "settings": {
-                "foreground": "#3E324D"
+                "foreground": "#1b1a44"
             }
         },
         {
             "scope": "entity.name.variable",
             "settings": {
-                "foreground": "#0F0C0D"
+                "foreground": "#1b1a44"
             }
         }
     ]
