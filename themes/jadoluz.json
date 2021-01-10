@@ -317,6 +317,20 @@
             }
         },
         {
+            "scope": "storage.type.class.python",
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#f04c1a"
+            }
+        },
+        {
+            "scope": "storage.type.function.python",
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#BD1B0F"
+            }
+        },
+        {
             "scope": "storage.modifier",
             "settings": {
                 "foreground": "#BD1B0FE8"
@@ -368,16 +382,25 @@
         },
         {
             "scope": [
-                "support.type.vendored.property-name",
-                "support.type.property-name",
                 "variable.css",
                 "variable.scss",
                 "variable.other.less",
-                "source.coffee.embedded"
+                "source.coffee.embedded",
+                "support.type.property-name.css"
             ],
             "settings": {
                 "fontStyle": "bold",
                 "foreground": "#f03310f0"
+            }
+        },
+        {
+            "scope": [
+                "support.type.vendored.property-name",
+                "support.type.property-name"
+            ],
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#f03310"
             }
         },
         {
@@ -507,7 +530,8 @@
                 "storage.type.primitive.groovy"
             ],
             "settings": {
-                "foreground": "#009059"
+                "fontStyle": "bold",
+                "foreground": "#2862dd"
             }
         },
         {
