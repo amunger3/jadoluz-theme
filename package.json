@@ -1,22 +1,29 @@
 {
     "name": "jadoluz-theme",
     "displayName": "Jadoluz Theme",
-    "description": "A light color scheme inspired by Armadillo.",
+    "description": "A light color scheme for easy contrast reading.",
     "version": "0.1.0",
     "engines": {
-        "vscode": "^1.51.1"
+        "vscode": "^1.52.1"
     },
     "categories": [
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Jadoluz Theme",
-                "uiTheme": "vs",
-                "path": "./themes/jadoluz.json"
+        "colors": [{
+            "id": "remote.background",
+            "description": "Color for remote connection button background.",
+            "defaults": {
+                "dark": "extensionBadge.remoteBackground",
+                "light": "extensionBadge.remoteBackground",
+                "highContrast": "#E00C0C"
             }
-        ]
+        }],
+        "themes": [{
+            "label": "Jadoluz Theme",
+            "uiTheme": "vs",
+            "path": "./themes/jadoluz.json"
+        }]
     },
     "publisher": "amung",
     "repository": {
@@ -36,6 +43,6 @@
         "theme"
     ],
     "devDependencies": {
-        "vsce": "^1.81.1"
+        "vsce": "^1.83.0"
     }
 }
