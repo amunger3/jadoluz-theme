@@ -2,7 +2,7 @@
     "name": "jadoluz-theme",
     "displayName": "Jadoluz Theme",
     "description": "A light color scheme for easy contrast reading.",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.52.1"
     },
@@ -14,8 +14,8 @@
             "id": "remote.background",
             "description": "Color for remote connection button background.",
             "defaults": {
-                "dark": "extensionBadge.remoteBackground",
-                "light": "extensionBadge.remoteBackground",
+                "dark": "statusBarItem.remoteBackground",
+                "light": "statusBarItem.remoteBackground",
                 "highContrast": "#E00C0C"
             }
         }],

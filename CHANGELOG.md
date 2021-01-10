@@ -6,6 +6,12 @@ Changelog labels are any of the following:
 
 - [BUGFIX], [CHANGE], [CODEQUALITY], [DEPENDENCY], [ENHANCEMENT], [OTHER], [TRANSLATION]
 
+## [Minor Release 0.2]
+
+### [0.2.0] - 2021-01-10
+
+- [CHANGE] Tweaked language-specific colors and font styles.
+
 ## [Minor Release 0.1]
 
 ### [0.1.0] - 2020-12-08
