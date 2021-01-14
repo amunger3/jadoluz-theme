@@ -3,8 +3,6 @@ node_modules
 
 # VSCode
 *.vsix
-vsc-extension-quickstart.md
 
 # Unused Files
 unusedparams
-unusedparams*

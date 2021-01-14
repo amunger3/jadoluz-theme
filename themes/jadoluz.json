@@ -154,7 +154,10 @@
             }
         },
         {
-            "scope": "entity.name.tag.css",
+            "scope": [
+                "entity.name.tag.css",
+                "entity.name.tag.yaml"
+            ],
             "settings": {
                 "fontStyle": "bold",
                 "foreground": "#055ed3"
