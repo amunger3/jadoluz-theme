@@ -437,13 +437,13 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#d42987"
+                "foreground": "#D42987"
             }
         },
         {
             "scope": "keyword.other.unit",
             "settings": {
-                "foreground": "#07aa59"
+                "foreground": "#07AA59"
             }
         },
         {
@@ -674,13 +674,13 @@
         {
             "scope": "variable",
             "settings": {
-                "foreground": "#1b1a44"
+                "foreground": "#1B1A44"
             }
         },
         {
             "scope": "entity.name.variable",
             "settings": {
-                "foreground": "#1b1a44"
+                "foreground": "#1B1A44"
             }
         }
     ]
